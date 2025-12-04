@@ -1,4 +1,3 @@
-# Applied-Data-Science-Capstone-Project
 # 🚀 SpaceX Falcon 9 First Stage Landing Prediction
 
 ## Executive Summary
